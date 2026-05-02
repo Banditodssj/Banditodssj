@@ -8,7 +8,7 @@ Right now, I’m working on my developer portfolio, it’s still simple for now,
 
 -🎮 Background in AAA game development (VFX)
 
--📖 Currently deep diving and polishing my data structures and algorithms knowledge and also finishing a Python course
+-📖 Currently deep diving and polishing my data structures and algorithms knowledge and also finishing a Python course. Looking forward to learn X-code/Swift
 
 -🚀 Transitioning from VFX to full-time development
 
@@ -74,20 +74,37 @@ Right now, I’m working on my developer portfolio, it’s still simple for now,
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Office 365" src="https://img.shields.io/badge/Office%20365-%23F03C3C"></a>
   &emsp;
+<a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    &emsp;
+  <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230068EF?logo=Jira"/></a>
+      &emsp;
+  <a href="#"><img alt="Perforce" src="https://img.shields.io/badge/Perforce--(P4V)-%230068EF?logo=Perforce"/></a>
+        &emsp;
+  <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal--Engine-%23000000?logo=Unreal%20Engine"/></a>
+          &emsp;
+  <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23001CF0?logo=Confluence"/></a>
+            &emsp;
+  <a href="#"><img alt="Shotgrid" src="https://img.shields.io/badge/Autodesk--Shotgrid-%2300B4F0?logo=autodesk"/></a>
+              &emsp;
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E?logo=Figma&logoColor=%23FFFFFF"/></a>
+</p>
 
-  <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ 
+<p align="center">
   &emsp;
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/opengl-%235586A4.svg?style=plastic&logo=opengl&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
     &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a>
-    &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="#"><img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-%23000000?logo=apachenetbeanside" /></a>
+      &emsp;
+    <a href="#"><img alt="SSMS" src="https://img.shields.io/badge/SQL--Server--MS-%23F0D300"/></a>
+       &emsp;
+    <a href="#"><img alt="Visual_Studio" src="https://img.shields.io/badge/Visual--Studio-%238B00F5"/></a>
+  
 </p>
                                                                                 
 </div>
