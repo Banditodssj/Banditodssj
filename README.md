@@ -18,6 +18,10 @@ Right now, I’m working on my developer portfolio, it’s still simple for now,
 
 -💼 Open to junior developer opportunities
 
+-💼 My VFX portfolio <a href="https://dssj2405.artstation.com" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/Portfolio--VFX-%23FA4E00?logo=ArtStation">
+  </a> 
+
 <br>
 <b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
   
